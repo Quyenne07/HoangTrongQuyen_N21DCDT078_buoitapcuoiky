@@ -1,0 +1,40 @@
+apple:
+  noun: A fruit that is typically round, red, green, or yellow.
+    Example: She ate an apple for lunch.
+
+run:
+  verb: Move at a speed faster than a walk.
+    Example: He likes to run every morning.
+
+book:
+  noun: A set of written, printed, or blank pages fastened together.
+    Example: She borrowed a book from the library.
+
+jump:
+  verb: Push oneself off a surface and into the air by using the muscles in one's legs and feet.
+    Example: The cat can jump very high.
+
+cat:
+  noun: A small domesticated carnivorous mammal with soft fur.
+    Example: The cat is sleeping on the couch.
+
+program:
+  noun: A planned series of future events, items, or performances.
+    Example: The concert program includes several well-known pieces.
+
+guitar:
+  noun: A stringed musical instrument with a fretted fingerboard.
+    Example: He plays the guitar in a band.
+
+dream:
+  noun: A series of thoughts, images, and sensations occurring in a person's mind during sleep.
+    Example: She had a strange dream last night.
+
+flower:
+  noun: The seed-bearing part of a plant, consisting of reproductive organs.
+    Example: The garden is full of beautiful flowers.
+
+computer:
+  noun: An electronic device for storing and processing data.
+    Example: She uses her computer to work from home.
+
